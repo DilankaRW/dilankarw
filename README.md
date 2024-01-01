@@ -8,7 +8,6 @@ Since I'm (still) a full-time Software Engineer, I also like to share my code so
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilankarw&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilankarw&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 
 ### Top Repositories
