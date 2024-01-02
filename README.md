@@ -1,6 +1,6 @@
 ## Well, hello there 👋
 
-### Who am I?
+### Who am I
 
 I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
 I love to share knowledge with the rest of the world.
