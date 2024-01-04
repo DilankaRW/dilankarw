@@ -16,7 +16,7 @@ I'm a full-time Software Engineer, I also like to share my code so others can ma
 * [BumbleBee-backend](https://github.com/DilankaRW/BumbleBee-backend)
 * [BumbleBee-frontend](https://github.com/DilankaRW/BumbleBee-frontend)
 
-### Contact Links
+### Social Links
 
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/dilankarw/)
 * <img src="https://praneeth.gnomezgrave.com/assets/img/icons/github.png" height="20"/>&nbsp; [GitHub](https://github.com/dilankarw/)
