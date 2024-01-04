@@ -4,7 +4,7 @@
 
 I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
 I love to share knowledge with the rest of the world.
-Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
+I'm a full-time Software Engineer, I also like to share my code so others can make use of them.
 
 ### My stats
 
