@@ -6,7 +6,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 I love to share knowledge with the rest of the world.
 I'm a full-time Software Engineer, I also like to share my code so others can make use of them.
 
-### My stats
+### My status
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilankarw&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 
