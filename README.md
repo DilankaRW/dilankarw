@@ -12,7 +12,6 @@ I'm a full-time Software Engineer, I also like to share my code so others can ma
 
 ### Top Repositories
 
-* [MSC System](https://github.com/DilankaRW/MSC_System)
 * [BumbleBee-backend](https://github.com/DilankaRW/BumbleBee-backend)
 * [BumbleBee-frontend](https://github.com/DilankaRW/BumbleBee-frontend)
 
